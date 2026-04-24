@@ -31,15 +31,15 @@ export default function About() {
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Focus</dt>
-                <dd className="text-zinc-100">Product · GTM · Pricing</dd>
+                <dd className="text-zinc-100">GTM · Positioning · Pricing</dd>
               </div>
               <div className="flex justify-between">
-                <dt className="text-zinc-500">Education</dt>
-                <dd className="text-zinc-100">M.S. Simon (Rochester)</dd>
+                <dt className="text-zinc-500">Current role</dt>
+                <dd className="text-zinc-100">Growth & PMM @ Sensata</dd>
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Open to</dt>
-                <dd className="text-zinc-100">Full-time roles</dd>
+                <dd className="text-zinc-100">PMM / PM roles</dd>
               </div>
             </dl>
           </div>
