@@ -5,7 +5,7 @@ const jobs = [
     period: "Sep 2024 – Present",
     location: "Boston, MA",
     summary:
-      "Leading GTM strategy, positioning, and pricing for new sensing products across North America and Europe.",
+      "Leading GTM strategy, positioning, and pricing for new sensing products across NA and EU - launch plans driving +35% qualified leads and $2M+ first-year pipeline; sales enablement for 50+ reps.",
   },
   {
     company: "Sensata Technologies",
@@ -13,7 +13,7 @@ const jobs = [
     period: "Jun 2024 – Aug 2024",
     location: "Attleboro, MA",
     summary:
-      "Supported product marketing for new sensing lines - competitive research, pricing analysis, and content for sales enablement.",
+      "Supported product marketing for new sensing lines - competitive research, pricing analysis, voice-of-customer interviews, and content for launch and sales enablement.",
   },
   {
     company: "Plug Power",
@@ -21,7 +21,7 @@ const jobs = [
     period: "Oct 2022 – Jul 2023",
     location: "Latham, NY",
     summary:
-      "Owned PPC, display, and the MarTech stack - delivered −25% CPA and +20% conversion rate through bid and audience optimization.",
+      "Sat at the marketing-product interface for hydrogen product lines - audience segmentation, MQL-to-SQL funnels, and closed-loop attribution from ad to SQL.",
   },
   {
     company: "Pixis",
@@ -29,7 +29,7 @@ const jobs = [
     period: "Jul 2021 – Sep 2022",
     location: "Bangalore, India",
     summary:
-      "Managed $1.4M in media budgets across global D2C clients; delivered 3x ROAS and cut churn 50% while directing an 8-person team.",
+      "Built customer-success and GTM playbooks for an AI adtech platform - $1.4M client budgets, 50% churn reduction, vertical-specific playbooks, and an 8-person team.",
   },
   {
     company: "GenY Medium",
@@ -37,7 +37,7 @@ const jobs = [
     period: "Jan 2020 – Jun 2021",
     location: "Hyderabad, India",
     summary:
-      "Delivered 16x ROAS for a D2C brand by rebuilding Google Merchant Center and Meta catalog feeds and launching structured Shopping + Advantage+ campaigns.",
+      "Owned end-to-end campaign launches for D2C brands - feed strategy, structured Shopping campaigns, and full-funnel reporting that informed product and creative roadmaps.",
   },
 ];
 
