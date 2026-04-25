@@ -1,3 +1,3 @@
-# Adhi — Product Portfolio
+# Adhi - Product Portfolio
 
-Product Marketing and Product Management.
+Product Marketing, GTM, Positioning, and Pricing.

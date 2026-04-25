@@ -7,7 +7,7 @@ export default function About() {
       <div className="mt-6 grid md:grid-cols-5 gap-10">
         <div className="md:col-span-3 space-y-4 text-zinc-300 leading-relaxed">
           <p>
-            I focus on bringing products to market - <strong className="text-zinc-100">product marketing</strong>, <strong className="text-zinc-100">product management</strong>, <strong className="text-zinc-100">GTM strategy</strong>, <strong className="text-zinc-100">positioning</strong>, and <strong className="text-zinc-100">pricing</strong>. From voice-of-customer research to sales enablement and price architecture for B2B and D2C ecommerce brands.
+            I bring products to market - <strong className="text-zinc-100">product marketing</strong>, <strong className="text-zinc-100">GTM strategy</strong>, <strong className="text-zinc-100">positioning</strong>, <strong className="text-zinc-100">launch</strong>, and <strong className="text-zinc-100">pricing</strong>. Voice-of-customer research, competitive positioning, launch plans, and sales enablement at Sensata, backed by four years in paid media and the analytics to close the loop from launch to revenue.
           </p>
           <p>
             I&apos;m drawn to the problems where the answer sits at the
@@ -31,10 +31,10 @@ export default function About() {
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Focus</dt>
-                <dd className="text-zinc-100">GTM · Positioning · Pricing</dd>
+                <dd className="text-zinc-100">PMM · GTM · Pricing</dd>
               </div>
               <div className="flex justify-between">
-                <dt className="text-zinc-500">Current role</dt>
+                <dt className="text-zinc-500">Current</dt>
                 <dd className="text-zinc-100">Growth & PMM @ Sensata</dd>
               </div>
               <div className="flex justify-between">

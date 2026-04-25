@@ -15,7 +15,7 @@ export default function Hero() {
         <div>
           <div className="flex items-center gap-2 mb-4">
             <span className="inline-flex items-center rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-200 text-[11px] font-semibold px-2.5 py-0.5 uppercase tracking-wider">
-              Product
+              Product Marketing
             </span>
             <span className="text-sm font-medium text-zinc-500">
               Hi, I&apos;m Adhithya
@@ -28,7 +28,7 @@ export default function Hero() {
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-zinc-400 leading-relaxed">
-            Product marketer and GTM strategist with 4+ years shipping positioning, launch plans, and pricing architecture for new product lines - most recently at Sensata Technologies. M.S. Marketing Analytics with a Pricing specialization - Simon Business School, University of Rochester. Based in Boston, MA.
+            Product marketer and GTM strategist. Currently at Sensata Technologies leading positioning and launch plans that generated +35% qualified leads and $2M+ first-year pipeline. 30+ voice-of-customer interviews, sales enablement for 50+ reps, and pricing-aware GTM. M.S. Marketing Analytics with a Pricing specialization - Simon Business School. Based in Boston, MA.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -51,26 +51,16 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
-          <div className="mt-8 flex flex-wrap gap-2">
+
+          <div className="mt-6 flex flex-wrap gap-2">
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              GTM at Sensata
+              +35% qualified leads
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $2M+ first-year pipeline
             </span>
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
               30+ VoC interviews
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              $2M first-year pipeline
-            </span>
-          </div>
-          <div className="mt-8 flex flex-wrap gap-2">
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              GTM at Sensata
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              30+ VoC interviews
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              $2M first-year pipeline
             </span>
           </div>
         </div>
