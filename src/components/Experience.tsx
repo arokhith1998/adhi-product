@@ -5,7 +5,7 @@ const jobs = [
     period: "May 2026 - Present",
     location: "Boston, MA",
     summary:
-      "Founder of Pricekeel - building a pricing intelligence platform that gives product and PMM teams the elasticity signals, competitor tracking, and packaging insights they need to launch and price with confidence.",
+      "Founder of Pricekeel - decision-integrity layer for B2B SaaS deal pricing. Product surfaces an explainable guardrail (learned from the company's own won-and-lost deals) at the exact moment a discount exception is raised, and captures the decision with evidence Finance can audit. Margin layer next.",
   },
   {
     company: "Sensata Technologies",
